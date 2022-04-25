@@ -3,3 +3,6 @@ venv/
 
 # all .pyc files
 *.pyc
+
+# keys 
+app/instance
